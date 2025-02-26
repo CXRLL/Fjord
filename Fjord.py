@@ -6,12 +6,12 @@ print("Welcome To Fjord VCPU. To run programs, Please use Fssembler for ASM Prog
 print(" ")
 
 class VirtualCPU:
-    def __init__(self, memory_size=65536):  # Increased memory size to 65KB
-        self.registers = [0] * 40  # 40 general-purpose registers
-        self.pc = 0  # Program counter
-        self.memory = [0] * memory_size  # Memory with specified size
-        self.lock = threading.Lock()  # Lock for thread-safe memory access
-        self.stack_pointer = memory_size - 1  # Stack pointer initialized to the end of memory
+    def __init__(self, memory_size=65536):  # I hate being bi-polar its awesome
+        self.registers = [0] * 40  # These are genreal purpose (general)
+        self.pc = 0  # a program cohunter ig
+        self.memory = [0] * memory_size  # meomruy
+        self.lock = threading.Lock()  # multi core safety
+        self.stack_pointer = memory_size - 1  # I MISS THE OLD KANYE
 
     def load_program(self, program):
         self.memory[:len(program)] = program
@@ -20,7 +20,7 @@ class VirtualCPU:
         while self.pc < len(self.memory):
             with self.lock:
                 opcode = self.memory[self.pc]
-                print(f"PC: {self.pc}, Opcode: {opcode}")  # Debug statement
+                print(f"PC: {self.pc}, Opcode: {opcode}")  # Debug statement that you wont understand probably
                 if opcode == 0x01:  # LOAD
                     reg = self.memory[self.pc + 1]
                     value = self.memory[self.pc + 2]
