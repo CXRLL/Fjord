@@ -61,6 +61,5 @@ git clone https://github.com/CXRLL/Fjord
 cd Fjord
 
 ## 5. Run Fjord.
-Run Fjord by typing in Fjord. (For Windows Only) or use an Python Interpreter.
-
+Run Fjord by typing in .\Fjord in the Fjord Directory (For Windows Only) or use an Python Interpreter, or add Fjord To $PATH and type in Fjord (For Linux and Windows)
 
