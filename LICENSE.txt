@@ -1,9 +1,8 @@
-<p align="center">
 
-                    The RadonNet Free and Open Source Foundation
-                © RadonNet, 2025
+The RadonNet Free and Open Source Foundation
+© RadonNet, 2025
 
-         This license applies to any software that explicitly declares itself as licensed under TRFOSL.
+This license applies to any software that explicitly declares itself as licensed under TRFOSL.
 
 1. Grant of Rights
 
@@ -42,5 +41,4 @@ This license does not grant any patent rights. Contributors grant a non-exclusiv
 If you distribute modified software and fail to provide the corresponding source code, your license to the software is automatically terminated.
 
 You may restore your rights under this license by complying with its terms within 30 days of receiving notice of non-compliance.
- 
-</p>
+
