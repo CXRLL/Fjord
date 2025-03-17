@@ -1,5 +1,5 @@
 
-The RadonNet Free and Open Source Foundation
+The RadonNet Free and Open Source License
 © RadonNet, 2025
 
 This license applies to any software that explicitly declares itself as licensed under TRFOSL.
