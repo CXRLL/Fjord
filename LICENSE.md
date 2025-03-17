@@ -1,10 +1,9 @@
 <p align="center">
 
-The RadonNet Free and Open Source License (TRFOSL) v1.0
+                    The RadonNet Free and Open Source Foundation
+                © RadonNet, 2025
 
-Copyright © 2023 The RadonNet Foundation 
-
-This license applies to any software that explicitly declares itself as licensed under TRFOSL.
+         This license applies to any software that explicitly declares itself as licensed under TRFOSL.
 
 1. Grant of Rights
 
