@@ -1,6 +1,6 @@
+The RadonNet Free and Open Source License (TRFOSL) v1.0.2
 
-The RadonNet Free and Open Source License
-© RadonNet, 2025
+2025 The RadonNet Foundation© 
 
 This license applies to any software that explicitly declares itself as licensed under TRFOSL.
 
@@ -21,6 +21,7 @@ Source Code Disclosure: If you publicly distribute a modified version of the sof
 
 The source code must be either included in the distribution or made publicly available (e.g., via an online repository) with clear instructions for obtaining it.
 
+
 No Trademark Use: This license does not grant permission to use any project names, trademarks, or branding without separate written permission from the original author or copyright holder.
 
 
@@ -38,7 +39,9 @@ This license does not grant any patent rights. Contributors grant a non-exclusiv
 
 5. Compliance & Enforcement
 
-If you distribute modified software and fail to provide the corresponding source code, your license to the software is automatically terminated.
+If you distribute modified software and fail to provide the corresponding source code or paywall your source code, your license to the software is automatically terminated.
 
 You may restore your rights under this license by complying with its terms within 30 days of receiving notice of non-compliance.
+ 
+
 
